@@ -3,5 +3,7 @@
     "admins": [
         "Maubg"
     ],
-    "repositorios": "https://github.com/HostHome-of/" 
+    "repositorios": "https://github.com/HostHome-of/",
+    "docs": "http://127.0.0.1:8000/"
+    
 }
