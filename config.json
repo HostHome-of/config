@@ -5,5 +5,8 @@
     ],
     "repositorios": "https://github.com/HostHome-of/",
     "docs": "http://127.0.0.1:8000/"
-    
+    "socket": {
+        "puerto": 4000,
+        "host": "localhost"
+    }
 }
