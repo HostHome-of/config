@@ -1,1 +1,4 @@
-*.json linguist-language=Java
+*.json linguist-vendored=false
+*.json linguist-generated=false
+*.json linguist-documentation=false
+*.json linguist-detectable=true
